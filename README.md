@@ -5,8 +5,8 @@ Dataset and Code for the paper "SVGC-AVA: 360-Degree Video Saliency Prediction w
 * Python3 == 3.8.5
 * Pytorch == 1.7.1
 
-## Datasets
-You can download the dataset at 
+## Datasets and Pretrained Model
+You can download the dataset and models at https://drive.google.com/drive/folders/15WBe_AYPs1geSwft9UUA5x5fQzngXsJF?usp=drive_link
 
 ## Usages
 1.Install the dependencies
